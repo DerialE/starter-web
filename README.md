@@ -1,7 +1,10 @@
 # Starter Web Repo
 
+##Header
 simple project
-##This is readme
+
 ## Purpose
+to show how git works
+
 ## Deployement
 Sample website with plenty of files for demos
